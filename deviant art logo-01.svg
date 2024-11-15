@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 48 48">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #24e39d;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: url(#Sfumatura_senza_nome_10);
+      }
+    </style>
+    <linearGradient id="Sfumatura_senza_nome_10" data-name="Sfumatura senza nome 10" x1="3.3" y1="3.3" x2="44.7" y2="44.7" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#272d32"/>
+      <stop offset="1" stop-color="#07080e"/>
+    </linearGradient>
+  </defs>
+  <g id="_--production" data-name="--production">
+    <g id="logomark.square.gradient">
+      <path id="background" class="cls-2" d="M48,11.3v25.5c0,6.2-5,11.3-11.3,11.3H11.3c-6.2,0-11.3-5-11.3-11.3V11.3C0,5,5,0,11.3,0h25.5c3.3,0,6.3,1.4,8.4,3.7.5.5.9,1.1,1.2,1.7.2.3.3.6.5.9.3.7.6,1.4.8,2.1,0,.4.2.8.2,1.1,0,.5.1,1.1.1,1.7Z"/>
+    </g>
+  </g>
+  <polygon id="polygon8" class="cls-1" points="19.3 42.5 20 41.8 23.1 35.8 24.1 35.1 35.5 35.1 35.5 25.9 29.2 25.9 28.7 25.2 35.5 12.2 35.5 5.5 35.4 5.5 28.7 5.5 28 6.2 24.9 12.2 23.9 12.9 12.5 12.9 12.5 22.1 18.8 22.1 19.3 22.8 12.5 35.8 12.5 42.5 12.5 42.5 19.3 42.5"/>
+</svg>
