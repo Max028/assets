@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 48 48">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #24e39d;
+      }
+
+      .cls-2 {
+        fill: url(#Sfumatura_senza_nome_15);
+      }
+    </style>
+    <linearGradient id="Sfumatura_senza_nome_15" data-name="Sfumatura senza nome 15" x1="0" y1="26" x2="48" y2="26" gradientTransform="translate(0 50) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#272d32"/>
+      <stop offset="1" stop-color="#07080e"/>
+    </linearGradient>
+  </defs>
+  <g id="Deviantart">
+    <path id="background" class="cls-2" d="M48,11.26v25.47c0,6.22-5.05,11.27-11.27,11.27H11.26c-6.22,0-11.26-5.05-11.26-11.27V11.26C0,5.04,5.04,0,11.26,0h25.47c3.32,0,6.3,1.43,8.37,3.72.47.52.89,1.08,1.25,1.68.18.29.34.59.5.89.33.68.6,1.39.79,2.14.1.37.18.76.23,1.15.09.54.13,1.11.13,1.68Z"/>
+    <polygon id="polygon8" class="cls-1" points="19.3 42.5 20 41.8 23.1 35.8 24.1 35.1 35.5 35.1 35.5 25.9 29.2 25.9 28.7 25.2 35.5 12.2 35.5 5.5 35.4 5.5 28.7 5.5 28 6.2 24.9 12.2 23.9 12.9 12.5 12.9 12.5 22.1 18.8 22.1 19.3 22.8 12.5 35.8 12.5 42.5 12.5 42.5 19.3 42.5"/>
+  </g>
+</svg>
