@@ -1,0 +1,2 @@
+# Show SVG in the repository languages (GitHub counts SVG as data by default)
+*.svg linguist-detectable=true

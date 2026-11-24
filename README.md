@@ -29,3 +29,7 @@ Link an icon straight from GitHub, for example:
 ## Trademarks
 
 The logos belong to their respective owners and are used only to link to my profiles on those services. This repository is not affiliated with or endorsed by any of them, and it does not grant any license to use the logos.
+
+## Maintenance note
+
+The icons were prepared and published by Max028. In November 2026 the repository was only reviewed: this README (and a small `.gitattributes` setting that lets GitHub show the SVG language) was added with the help of Claude, an AI assistant by Anthropic. No icon was changed.
